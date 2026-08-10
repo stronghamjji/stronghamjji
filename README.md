@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I build **[PersoDub](https://github.com/stronghamjji/PersoDub)** — a macOS app that dubs a video
+I build **[PersoDub](https://github.com/stronghamjji/PersoDub)** — a desktop app that dubs a video
 into another language in the original speaker's own voice, entirely on your Mac.
 
 Most dubbing tools speed the audio up when a translation runs longer than its line, which is the
@@ -9,7 +9,7 @@ original time slot instead, and a watchdog verifies line by line that no resampl
 
 - 🎙️ &nbsp;Voice cloning, not narration — each speaker's timbre is cloned from the source audio
 - 🔒 &nbsp;Runs locally by default — no account, no API key, nothing uploaded
-- 🍎 &nbsp;Apple Silicon (Windows and Linux planned)
+- 🍎 &nbsp;macOS on Apple Silicon today — Windows and Linux planned
 - 📄 &nbsp;Apache-2.0
 
 ---
